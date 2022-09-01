@@ -7,14 +7,14 @@
 
 Сканер может читать как штрихкоды так и QR коды.
 
-![alt text](https://github.com/roboeggs/Script-Barcode-scanner/blob/main/images/barcode.gif)
+![alt text](https://github.com/roboeggs/ScriptBarcodeScanner/blob/main/images/barcode.gif)
 
-![alt text](https://github.com/roboeggs/Script-Barcode-scanner/blob/main/images/qr-code.gif)
+![alt text](https://github.com/roboeggs/ScriptBarcodeScanner/blob/main/images/qr-code.gif)
 
 Данные полученные в монитор.
 
-![Image text](https://github.com/roboeggs/Script-Barcode-scanner/blob/main/images/monitor.png)
+![Image text](https://github.com/roboeggs/ScriptBarcodeScanner/blob/main/images/monitor.png)
 
 Данный код был протестирован на сканере Honeywell HH400-R1-USB.
 
-![alt text](https://github.com/roboeggs/Script-Barcode-scanner/blob/main/images/scanner.jpg)
+![alt text](https://github.com/roboeggs/ScriptBarcodeScanner/blob/main/images/scanner.jpg)
