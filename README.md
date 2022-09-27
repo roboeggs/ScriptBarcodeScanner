@@ -1,20 +1,20 @@
-Данный код перехватывает данные со сканера штрихкодов. Мы получаем данные в последовательный порт и передаем далее на ПК.
+This code intercepts data from the barcode scanner. We receive data to the serial port and transmit it further to the PC.
 
-Требуемые устройства:
+Required devices:
 1. Arduino Leonardo
-2. USB HostShield
-3. HID сканер
+2. USB Host Shield
+3. HID scanner
 
-Сканер может читать как штрихкоды так и QR коды.
+The scanner can read both barcodes and QR codes.
 
 ![alt text](https://github.com/roboeggs/ScriptBarcodeScanner/blob/main/images/barcode.gif)
 
 ![alt text](https://github.com/roboeggs/ScriptBarcodeScanner/blob/main/images/qr-code.gif)
 
-Данные полученные в монитор.
+The data received in the monitor.
 
 ![Image text](https://github.com/roboeggs/ScriptBarcodeScanner/blob/main/images/monitor.png)
 
-Данный код был протестирован на сканере Honeywell HH400-R1-USB.
+This code was tested on a Honeywell HH400-R1-USB scanner.
 
 ![alt text](https://github.com/roboeggs/ScriptBarcodeScanner/blob/main/images/scanner.jpg)
